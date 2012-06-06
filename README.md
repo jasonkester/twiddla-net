@@ -8,6 +8,8 @@ Usage
 
 There's a sample project included that provides examples for every type of call you'll need to create, list and modify Twiddla Sessions, Users, etc.
 
+Worth noting: the library itself (that is, the files under the TwiddlaAPI folder) compiles under .NET 2.0 and above, so if you're working off an older version of .NET you can pluck that bit out and drop it straight into your project.
+
 Documentation
 -------
 
