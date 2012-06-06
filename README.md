@@ -11,7 +11,7 @@ There's a sample project included that provides examples for every type of call 
 Documentation
 -------
 
-Information on how to use the various Twiddla API calls, as well as information about the IFRAME tags you'll need to actually embed Whiteboards into your site can be found on Twiddla's in [API Reference]
+Information on how to use the various Twiddla API calls, as well as information about the IFRAME tags you'll need to actually embed Whiteboards into your site can be found in Twiddla's [API Reference]
 
 
 [Twiddla API]: http://www.twiddla.com/API/Reference.aspx
